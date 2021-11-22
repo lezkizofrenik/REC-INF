@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser"/>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.xml.DcXMLParser"/>
+<meta name="resourceName" content="study-288.rdf"/>
+<meta name="Content-Length" content="14254"/>
+<meta name="Content-Type" content="application/rdf+xml"/>
+<title/>
+</head>
+<body><p> 
+  Ficha Técnica Ficha Técnica Instituto Nacional de Estadística e Informática - INEI Instituto Nacional de Estadística e Informática - INEI Documento, Genérico [text] Documento, Técnico [doc/tec] Perú [per] Documento en donde se detallan las características metodológicas de la Encuesta Demográfica y de Salud Familiar ENDES 2015.
+La Encuesta Demográfica y de Salud Familiar, es una investigación estadística desarrollada a solicitud de la Dirección Nacional de Presupuesto Público- DNPP del Ministerio de Economía y Finanzas del Perú en el marco de la Encuesta Demográfica y de Salud Familiar ENDES Continua que el INEI realiza. Este documento está compuesto por los siguientes capítulos:
+
+I. Objetivos
+II. Población objetivo
+III. Diseño muestral 2015 - 2017
+IV. Características técnicas
+V. Factores de ponderación
+  Cuestionario del hogar - Encuesta Demográfica y de Salud Familar 2015 Cuestionario del hogar - Encuesta Demográfica y de Salud Familar 2015 Instituto Nacional de Estadística e Informática - INEI Instituto Nacional de Estadística e Informática - INEI Documento, PDF [application/pdf] Documento, Cuestionario [doc/qst] Perú [per] Documento que registra las características demográficas, educativas y de salud de cada uno de los miembros del hogar, tales como: parentesco con el Jefe del Hogar, sexo, edad, cobertura de los seguros de salud, condición de actividad económica, nivel de educación alcanzado, matrícula escolar, asistencia escolar. También registra información sobre supervivencia y residencia de los padres, para personas menores de 15 años. 
+Asimismo, proporciona información sobre las características básicas de la vivienda: Estructurales (paredes, techo y piso), servicios básicos (alumbrado, agua y desagüe), equipamiento del hogar, tenencia de tierras agrícolas y de alguna cuenta bancaria, de algún medio de transporte, material predominante en el piso, pared y techo de la vivienda, y otros. 
+También se ha adicionado una sección de la medición de la cantidad de sal que utilizan en el hogar para cocinar, la limpieza donde guardan el agua para tomar y las prácticas de salud.
+Finalmente se incluye el registro de la medición antropométrica (peso y talla) y de los niveles  hemoglobina para determinar la existencia, tanto para niños menores de 6 años como mujeres de 15 a 49 años de edad. El Cuestionario de Hogar, tiene la siguiente estructura:
+
+Carátula 
+- Identificación
+- Visitas de la Entrevistada
+
+Sección 1. Características de los miembros del hogar 
+Sección 2. Características de la vivienda
+Sección 3A. Programas Sociales - No Alimentarios 
+Sección 3B. Programas Sociales - Alimentarios 
+Sección 4. Medición del peso y talla               
+Sección 5. Prueba de hemoglobina
+Sección 6. Prueba de yodo en la sal y de cloro residual en el agua.
+  Cuestionario de Salud- Encuesta Demográfica y de Salud Familar 2015 Cuestionario de Salud- Encuesta Demográfica y de Salud Familar 2015 Instituto Nacional de Estadística e Informática - INEI Instituto Nacional de Estadística e Informática - INEI Documento, PDF [application/pdf] Documento, Cuestionario [doc/qst] Perú [per] El Cuestionario de Salud se aplica a una persona de 15 años a más por hogar, en todos los hogares donde se aplica la ENDES. Esta selección se realiza con la información de la Sección 1 del Cuestionario del Hogar, empleando la metodología del cumpleaños más reciente ocurrido. El propósito de la recolección de información del Cuestionario de Salud es proporcionar información sobre la prevalencia y acceso a tratamiento de la hipertensión arterial y diabetes mellitus; sobre la prevalencia de los factores de riesgo modificables de las enfermedades no trasmisibles; sobre la prevalencia de los problemas y acceso a servicios de diagnóstico y tratamiento en salud ocular, bucal y mental; sobre la prevalencia de acceso a tamizaje y conocimientos sobre tuberculosis y VIH / SIDA; sobre la prevalencia de acceso a tamizaje y conocimientos sobre cáncer; así como la prevalencia de presión arterial alta y sobrepeso y obesidad de personas de 15 años a más. El Cuestionario Salud, tiene la siguiente estructura:
+
+1. Hipertensión y diabetes
+2. Factores de riesgo de enfermedades no transmisibles
+3. Salud ocular y bucal en adultos
+4. Prevención y control de cáncer
+5. Tuberculosis 
+6. VIH /SIDA
+7. Salud mental
+8. Salud bucal, ocular y mental en niñas y niños
+9. Mediciones de antropometría y presión arterial.
+  Cuestionario Individual - Mujeres de 15 a 49 años- Encuesta Demográfica y de Salud Familar 2015 Cuestionario Individual - Mujeres de 15 a 49 años- Encuesta Demográfica y de Salud Familar 2015 Instituto Nacional de Estadística e Informática - INEI Instituto Nacional de Estadística e Informática - INEI Documento, PDF [application/pdf] Documento, Cuestionario [doc/qst] Perú [per] El Cuestionario Individual de la Mujer es un documento que contiene información referente a las mujeres de 15 a 49 años de edad: Características demográficas y sociales, historia reproductiva, atención prenatal, asistencia del parto y atención puerperal, embarazo y lactancia, inmunización, nupcialidad, preferencia de fecundidad, conocimiento y uso de métodos anticonceptivos, experiencia laboral, conocimientos y actitudes respecto al SIDA, mortalidad materna, violencia familiar. El Cuestionario Individual tiene la siguiente estructura:
+
+1. Antecedentes de la entrevistada, 
+2. Reproducción
+     Historia de nacimiento 
+3. Anticoncepción  
+4A. Embarazo, parto, puerperio y lactancia 
+4B. Inmunización y salud
+    Desarrollo infantil temprano en niñas y niños menores de 5 años
+    Sesiones demostrativas y visitas domiciliarias (consejería nutricional) por MINSA
+5. Nupcialidad
+6. Preferencias de fecundidad
+7. Antecedentes del cónyuge y trabajo de la mujer
+8. SIDA y otras ITS
+9. Mortalidad materna 
+10. Violencia doméstica
+  Manual de la Entrevistada - Encuesta Demográfica y de Salud Familiar 2015 Manual de la Entrevistada - Encuesta Demográfica y de Salud Familiar 2015 Instituto Nacional de Estadística e Informática - INEI Instituto Nacional de Estadística e Informática - INEI Documento, PDF [application/pdf] Documento, Otro [doc/oth] Perú [per] Es un documento de 464 páginas, el cual contiene los fundamentos metodológicos: Definiciones, conceptos, procedimientos e instrucciones básicas necesarias para que el trabajo del personal se desarrolle en el marco de un trabajo dentro de los más rigurosos parámetros de homogeneidad, calidad veracidad y confiabilidad. El uso de este manual permitirá la aplicación sistemática de los mismos criterios y pautas en todo el país. El Manual de la entrevistadora, tiene la siguiente estructura:
+
+Introducción
+ 
+I. Antecedentes y objetivos de la investigación  
+II. Estrategias  
+III. Características técnicas de la encuesta  
+IV. Estructura de la organización de la ENDES 2015  
+V. Funciones del personal de campo  
+VI. Técnicas para realizar una buena entrevista  
+VII. Tareas de la entrevistadora  
+VIII. Cuestionarios y principales temas a investigar  
+IX. Características técnicas de los cuestionarios físicos  
+X. Información básicas sobre la tablet lenovo yoga 8 y el aplicativo ENDES 2015
+XI. Instalación de aplicativo ENDES (APK ENDES  
+XII. Cargar archivos (MAPS WITHME Y APK ENDES) 
+XIV. Instrucciones específicas para aplicar el cuestionario del hogar en la tablet 
+XV. Preparación de un cuestionario individual para cada persona elegible 
+XVI. Instrucciones específicas para el diligenciamiento de la caratula del cuestionario individual en tablet 
+XVII. Instrucciones específicas para aplicar el cuestionario individual 
+XVIII. Instrucciones para el diligenciamiento del calendario
+XIX. Instrucciones específicas para aplicar el cuestionario de salud
+XX. Instrucciones para la exportación de archivos, creación de la carpeta: archivos exportados y copia de archivos al usb dual (memoria externa).  
+XXI. Instrucciones para realizar la copia de respaldo de la base de datos  
+
+ANEXO
+- Reglas de consistencia en el diligenciamiento de los cuestionarios ENDES
+  Resolución Jefatural Resolución Jefatural Instituto Nacional de Estadística e Informática - INEI Instituto Nacional de Estadística e Informática - INEI Documento, PDF [application/pdf] Documento, Administrativo [doc/adm] Perú [per]
+  Perú: Encuesta Demográfica y de Salud Familiar 2015 Perú: Encuesta Demográfica y de Salud Familiar 2015 Instituto Nacional de Estadística e Informática - INEI Instituto Nacional de Estadística e Informática - INEI Documento, PDF [application/pdf] Documento, Reportes [doc/rep] Perú [per] El Informe contiene trece capítulos y tres apéndices. En el primer y segundo capítulos se presentan las características de los hogares y la población entrevistada. En los capítulos tres al seis se analiza la situación de salud reproductiva así como los niveles y preferencias de fecundidad. En los capítulos siete al diez, se enfatiza las condiciones de morbilidad y mortalidad de las niñas y niños menores de 5 años, asimismo, se evalúa los avances en materia de atención pre y post natal a las mujeres gestantes así como sobre la atención durante el parto. También destacan aspectos relacionados con la lactancia y nutrición de niñas, niños y madres. Los siguientes tres capítulos abordan el conocimiento que las mujeres en edad fértil tienen acerca de las Infecciones de Transmisión Sexual (ITS), de las actitudes y prácticas relacionadas con el VIH SIDA y los episodios de violencia familiar. Cabe precisar que el último capítulo muestra los indicadores contemplados en los Objetivos de Desarrollo del Milenio (ODM) y que de acuerdo a los datos disponibles se están alcanzando las metas previstas. El documento, tiene la siguiente estructura:
+
+Presentación
+Principales indicadores
+Resumen ejecutivo
+
+Capítulo 1: Características de los hogares y población
+Capítulo 2: Características generales de las mujeres
+Capítulo 3: Fecundidad
+Capítulo 4: Planificación familiar
+Capítulo 5: Otros determinantes de la fecundidad
+Capítulo 6: Preferencia de la fecundidad
+Capítulo 7: Mortalidad infantil y en la niñez
+Capítulo 8: Salud materna
+Capítulo 9: Salud infantil
+Capítulo 10: Lactancia y nutrición de niñas, niños y madres
+Capítulo 11: Conocimiento de VIH e ITS
+Capítulo 12: Violencia contra las mujeres, niñas y niños
+Capítulo 13: Indicadores: objetivos de desarrollo del milenio
+
+Apéndice A
+Apéndice B
+Apéndice C
+</p>
+</body></html>

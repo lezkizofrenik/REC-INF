@@ -1,0 +1,1 @@
+La carpeta Archivos está vacía porque es la que uso para descargar los documentos. También debes cambiar la ruta de donde se guardan los documentos en el código porque sólo admite ruta absoluta, así que está puesta la mía.
