@@ -1,0 +1,1 @@
+esta carpeta contenia tika-app-1.22.jar y tika-app-1.24.1.jar

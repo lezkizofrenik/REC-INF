@@ -1,0 +1,2 @@
+esta carpeta contenia tika-app-1.22.jar
+
